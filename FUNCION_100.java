@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Main3 {
     public static String[] nombre = new String[100];
     public static float[] sueldo = new float[100];
